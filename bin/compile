@@ -62,7 +62,7 @@ fi
 git clone \$WARRIOR_PROJECT project
 cd project
 
-run-pipeline \
+run-pipeline3 \
   --concurrent \$WARRIOR_CONCURRENT \
   --max-items \$WARRIOR_MAX_ITEMS \
   --disable-web-server \
